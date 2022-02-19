@@ -6,11 +6,9 @@ Hi, I'm Carlos André Matos, but you can call me **Andre**. I'm a Data Scientist
 
 I am a developer of the projects:
 
-+ [**"Disponha"**](https://disponha.com) Platform to learn calculus, data science and open data.
++ [**"Aprenda Cáclulo"**](https://www.youtube.com/channel/UC9htmHh1PDCD6IjNlviQWtQ) Platform Youtube to learn calculus.
 
 + [**Web application for e-books**](https://esead.github.io) by Superintendence of Open and Distance Education - (in portuguese SEAD/UFRB).
-
-+ [**Monitoring Calculus I (Supplemental Semester 2020.3)**](https://cetensc1.github.io) by Center for Science and Technology in Energy and Sustainability - (in portuguese CETENS/UFRB).
 
 + [**Tucano Open Data**](https://dadosabertostucano.org) Open Data Platform of the Municipality of Tucano/Ba/Brazil.
 
