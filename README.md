@@ -1,6 +1,6 @@
 
 
-![Carlos André Matos GitHub Stats](https://github-readme-stats.vercel.app/api?username=andhremattos&show_icons=true)
+![Carlos André Matos GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlosandretaiga&show_icons=true)
 
 Hi, I'm Carlos André Matos, but you can call me **Andre**. I'm a Data Scientist from Brazil. Nanodegree Fundamentals of Data Science I to [Udacity](https://confirm.udacity.com/J56CJQRF). 
 
