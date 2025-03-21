@@ -1,7 +1,7 @@
 ## Olá, eu sou Carlos André Matos!  
 
  
-Sou DEv e Cientista de Dados. Concluí o Nanodegree Fundamentals of Data Science I pela [Udacity](https://confirm.udacity.com/J56CJQRF).  Bacharel em Ciências Exatas e Tecnológicas e Engenheiro Civil pela Universidade Federal do Recôncavo da Bahia. Atualmente sou mestrando no Programa de Estatística e Ciência de Dados da Universidade Federal da Bahia. 
+Sou Dev e Cientista de Dados. Concluí o Nanodegree Fundamentals of Data Science I pela [Udacity](https://confirm.udacity.com/J56CJQRF).  Bacharel em Ciências Exatas e Tecnológicas e Engenheiro Civil pela Universidade Federal do Recôncavo da Bahia. Atualmente sou mestrando no Programa de Pós-Graduação em Estatística e Ciência de Dados da Universidade Federal da Bahia. 
 
 ### Sou desenvolvedor dos seguintes projetos:
 
